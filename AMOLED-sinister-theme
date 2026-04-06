@@ -236,7 +236,7 @@
   },
   "background": {
     "url": "https://raw.githubusercontent.com/lukenkray/my-pyoncord-theme/refs/heads/main/IMG_6677.jpeg",
-    "blur": 0.5,
+    "blur": 0.1,
     "alpha": 0.25,
     "size": "cover",
     "position": "center"
