@@ -1,10 +1,10 @@
 {
-  "name": "AMOLED anime theme",
-  "description": "AMOLED Rem theme",
+  "name": "AMOLED eris theme",
+  "description": "AMOLED eris theme",
   "authors": [
     {
-      "name": "wiwiichan",
-      "id": "725075745671479296"
+      "name": "sinisterlarper",
+      "id": ""
     }
   ],
   "semanticColors": {
@@ -235,7 +235,7 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/wiwiichan/AMOLED-anime-theme/refs/heads/main/rem.jpg",
+    "url": "https://raw.githubusercontent.com/lukenkray/my-pyoncord-theme/refs/heads/main/IMG_6677.jpeg",
     "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
@@ -246,6 +246,6 @@
     "iconpack": "solar"
   },
   "spec": 2,
-  "createdAt": "2025-10-05",
+  "createdAt": "2026-4-7",
   "source": "local"
 }
